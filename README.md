@@ -19,7 +19,7 @@ we are going to use average distance to evalute our RBM. We obtained the loss of
 <p>I dive into dataset and we preprocessed the dataset into a list of users and user ratings for different movies. we converted training set and test into
 torch tensors. </p>
 <p>I have built a class of RBM using using pytorch libraries and created a RBM class with contrastive divergence to approximate gradient and update weights</p>
-<p>Dataset Courtesy: <a href ="grouplens.org/datasets/movielens/">Dataset Courtesy </a></p>
+<p>Dataset Courtesy: <a href ="https://grouplens.org/datasets/movielens/">Dataset Courtesy </a></p>
 <strong>Additional Resources:</strong>
 <p><a href="http://pytorch.org/docs/0.3.1/">Pytorch Documentation</a></p>
 <p><a href = "http://image.diku.dk/igel/paper/AItRBM-proof.pdf">Introduction to Restricted Boltzmann Machines</a></p>
